@@ -1,2 +1,0 @@
-# ChatbotAndroid
-This is Chatbot
